@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EE1D23</color>
+    <color name="red">#EE1D23</color>
+    <color name="colorPrimaryDark">#FAAF18</color>
+    <color name="yellow">#FAAF18</color>
+    <color name="colorAccent">#185494</color>
+    <color name="blue">#185494</color>
+    <color name="elect">#009623</color>
+    <color name="groceries">#e8c253</color>
+    <color name="clean">#f98a5c</color>
+    <color name="fresh">#47c271</color>
+    <color name="frozen">#55a1b9</color>
+    <color name="tech">#185494</color>
+</resources>
