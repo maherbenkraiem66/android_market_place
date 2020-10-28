@@ -26,7 +26,7 @@ import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 public class http {
-    private static final String BASE_URL = "http://192.168.1.17:80/manel/";
+    private static final String BASE_URL = "http://192.168.1.17:80/xyz/";
     private static Retrofit retrofit;
 
     public static Retrofit getRetrofitClient(Context context) {
