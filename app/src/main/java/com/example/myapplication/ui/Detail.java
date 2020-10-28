@@ -65,7 +65,7 @@ public class Detail extends AppCompatActivity {
         tprix.setText(prix + "DT");
         Glide.with(getApplicationContext())
                 .asBitmap()
-                .load("http://192.168.1.17:80/manel/images/" + img)
+                .load("http://192.168.1.17:80/xyz/images/" + img)
                 .into(vimg);
 
         if (Integer.parseInt(qt) > 0) {
